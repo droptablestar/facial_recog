@@ -1,0 +1,23 @@
+Tester:     weka.experiment.PairedCorrectedTTester
+Analysing:  Percent_correct
+Datasets:   3
+Resultsets: 3
+Confidence: 0.01 (two tailed)
+Sorted by:  -
+Date:       11/19/11 9:47 PM
+
+
+Dataset                   (1) train_clean    | (2) train_best  (3) 'train_clea
+------------------------------------------------------------------------------
+bayes.NaiveBayes          (25)   53.60(5.95) |   63.60(6.04) v   79.90(5.80) v
+trees.J48                 (25)   61.90(7.19) |   64.30(7.02)     60.10(8.49)  
+functions.SMO             (25)   88.00(3.15) |   90.10(3.19)     80.90(4.89)  
+------------------------------------------------------------------------------
+                                     (v/ /*) |         (1/2/0)         (1/2/0)
+
+
+Key:
+(1) train_clean
+(2) train_best
+(3) 'train_clean_principal components-unsupervised.attribute.PrincipalComponents-R0.95-A5-M-1'
+

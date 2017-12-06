@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{HMM}
+M.H. Hayes~III A.V.~Nefian.
+\newblock Hidden markov models for face recognition.
+\newblock {\em Proc. of the IEEE International Conference on Acoustics, Speech,
+  and Signal Processing}, 5:2721--2724.
+
+\bibitem{SVM}
+K.~Chan G.~Guo, S.Z.~Li.
+\newblock Face recognition by support vector machines.
+\newblock In {\em Proc. of the IEEE International Conference on Automatic Face
+  and Gesture Recognition}, 2000.
+
+\bibitem{PCA1}
+P.J.~Phillips H.~Moon.
+\newblock Computational and performance aspects of pca-based face recognition
+  algorithms.
+\newblock {\em Perception}, 30:303--321, 2001.
+
+\bibitem{DM}
+M.~Hall I.~Witten, E.~Frank.
+\newblock {\em Data Mining: Practical Machine Learning Tools and Techniques},
+  page~99.
+\newblock Morgan Kaufmann, third edition.
+
+\bibitem{LDA0}
+A.N.~Venetsanopoulos J.~Lu, K.N.~Plataniotis.
+\newblock Face recognition by independent component analysis.
+\newblock {\em IEEE Trans. on Neural Networks}, 14:195--200, 2003.
+
+\bibitem{EBGM}
+N.~Krueuger C. von der~Malsburg L.~Wiskott, J.-M.~Fellous.
+\newblock Face recognition by elastic bunch graph matching.
+\newblock {\em IEEE Trans. on Pattern Analysis and Machine Intelligence},
+  19:775--779, 1997.
+
+\bibitem{PCA}
+Victor Lavrenko.
+\newblock \url{www.inf.ed.ac.uk/teaching/courses/iaml/2011/slides/pca.pdf},
+  2011.
+
+\bibitem{PCA0}
+A.~Pentland M.~Turk.
+\newblock Eigenfaces for recognition.
+\newblock {\em Journal of Cognitive Neurosicence}, 3:71--86, 1991.
+
+\bibitem{ICA0}
+T.J.~Sejnowski M.S.~Bartlett, J.R.~Movellan.
+\newblock Face recognition by independent component analysis.
+\newblock {\em IEEE Trans. on Neural Networks}, 13:1450--1464, 2002.
+
+\end{thebibliography}
